@@ -9,3 +9,6 @@
     grid-template-columns: 1fr 4fr;
 }
 
+.header {
+    grid-column: 2 / 3;
+}

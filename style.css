@@ -21,3 +21,9 @@
     display: grid;
     grid-template-columns: 3fr 1fr;
 }
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    min-height: 500px;
+}

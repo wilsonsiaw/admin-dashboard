@@ -25,5 +25,6 @@
 .cards {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-    min-height: 500px;
+    min-height: 600px;
+    gap: 25px;
 }

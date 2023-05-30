@@ -17,7 +17,7 @@
     margin: 25px;
 
     display: grid;
-    grid-template-columns: 3fr 1fr;
+    grid-template-columns: 4fr 1fr;
 }
 
 #magnify {
@@ -34,6 +34,13 @@ input:focus {
     border-radius: 10px;
     width: 500px;
     min-height: 25px;
+}
+
+.notification-area {
+    display: grid;
+
+    grid-template-columns: 100px 100px 100px;
+    justify-items: center;
 }
 
 .dashboard {

@@ -10,7 +10,6 @@
 }
 
 .header {
-    border: 1px solid red;
     min-height: 150px;
     grid-column: 2 / 3;
 }
@@ -19,12 +18,12 @@
     margin: 25px;
 
     display: grid;
-    grid-template-columns: 4fr 1fr;
+    grid-template-columns: 3fr 1fr;
 }
 
 .username {
     display: grid;
-    grid-template-columns: 4fr 1fr;
+    grid-template-columns: 2.8fr 1fr;
 
     margin-left: 15px;
 }
@@ -43,6 +42,27 @@ h2:nth-child(1) {
 
 #panda {
     justify-self: center;
+}
+
+button {
+    color: white;
+    font-size: 0.9rem;
+    background-color: #0092ca;
+    border-radius: 15px;
+    padding: 10px 23px;
+}
+
+button:hover {
+    background-color: #007cb9;
+    cursor: pointer;
+}
+
+.buttons {
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+
+    align-items: center;
+    justify-items: center;
 }
 
 #magnify {

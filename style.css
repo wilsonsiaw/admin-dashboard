@@ -13,6 +13,25 @@
     grid-column: 2 / 3;
 }
 
+.search-bar {
+    margin: 30px;
+
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+input:focus {
+    outline: 1px solid gray;
+}
+
+#search {
+    font-size: 0.9rem;
+    background-color: lightgrey;
+    border-radius: 10px;
+    width: 500px;
+    min-height: 25px;
+}
+
 .dashboard {
     grid-row: 1 / 3;
 }

@@ -14,10 +14,14 @@
 }
 
 .search-bar {
-    margin: 30px;
+    margin: 25px;
 
     display: grid;
     grid-template-columns: 3fr 1fr;
+}
+
+#magnify {
+    vertical-align: middle;
 }
 
 input:focus {

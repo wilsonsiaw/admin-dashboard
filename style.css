@@ -94,8 +94,16 @@ input:focus {
     grid-row: 1 / 3;
 
     display: grid;
-    grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 4fr;
+}
+
+.sidebar-menu {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+
+ul {
+    grid-column: 2 / 3;
 }
 
 .main-content {

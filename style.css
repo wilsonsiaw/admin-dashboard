@@ -127,7 +127,8 @@ a {
 .tasks,
 .community,
 .settings,
-.support {
+.support,
+.privacy {
     font-size: 1.2rem;
     grid-column: 2 / 3;
 
@@ -141,7 +142,8 @@ a {
 #tasks-icon,
 #community-icon,
 #settings-icon,
-#support-icon {
+#support-icon,
+#privacy-icon {
     justify-self: center;
     align-self: center;
 }

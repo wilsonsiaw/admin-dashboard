@@ -126,7 +126,8 @@ a {
 .history,
 .tasks,
 .community,
-.settings {
+.settings,
+.support {
     font-size: 1.2rem;
     grid-column: 2 / 3;
 
@@ -139,7 +140,8 @@ a {
 #history-icon,
 #tasks-icon,
 #community-icon,
-#settings-icon {
+#settings-icon,
+#support-icon {
     justify-self: center;
     align-self: center;
 }

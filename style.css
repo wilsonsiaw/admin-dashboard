@@ -117,6 +117,7 @@ h1 {
 
 ul {
     grid-column: 2 / 3;
+    list-style-type: none;
 }
 
 .main-content {

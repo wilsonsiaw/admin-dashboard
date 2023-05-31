@@ -121,7 +121,15 @@ a {
 }
 
 .home {
+    font-size: 1.2rem;
     grid-column: 2 / 3;
+
+    align-self: center;
+}
+
+#home-icon {
+    justify-self: center;
+    align-self: center;
 }
 
 .main-content {

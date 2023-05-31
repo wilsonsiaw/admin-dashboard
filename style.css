@@ -62,13 +62,13 @@ h2:nth-child(2) {
 button {
     color: white;
     font-size: 1.5rem;
-    background-color: #0092ca;
+    background-color: #42b883;
     border-radius: 15px;
     padding: 10px 23px;
 }
 
 button:hover {
-    background-color: #007cb9;
+    background-color: #97cba9;
     cursor: pointer;
 }
 

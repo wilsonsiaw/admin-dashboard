@@ -60,15 +60,15 @@ h2:nth-child(2) {
 }
 
 button {
-    color: white;
+    color: #feffdf;
     font-size: 1.5rem;
-    background-color: #42b883;
+    background-color: #295f4e;
     border-radius: 15px;
     padding: 10px 23px;
 }
 
 button:hover {
-    background-color: #97cba9;
+    background-color: #3a7563;
     cursor: pointer;
 }
 

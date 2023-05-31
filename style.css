@@ -122,7 +122,8 @@ a {
 
 .home,
 .profile,
-.messages {
+.messages,
+.history {
     font-size: 1.2rem;
     grid-column: 2 / 3;
 
@@ -131,7 +132,8 @@ a {
 
 #home-icon,
 #profile-icon,
-#messages-icon {
+#messages-icon,
+#history-icon {
     justify-self: center;
     align-self: center;
 }

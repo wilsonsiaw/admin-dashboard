@@ -196,6 +196,8 @@ a {
 .card-icons {
     padding: 5px;
     margin-top: 15px;
-    margin-right: 20px;
     justify-self: end;
+
+    display: grid;
+    grid-template-columns: repeat(3, 40px);
 }

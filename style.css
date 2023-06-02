@@ -202,3 +202,14 @@ a {
     display: grid;
     grid-template-columns: repeat(3, 40px);
 }
+
+span > div {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+span > p {
+    font-size: 1.3rem;
+    color:grey;
+    font-weight: 400;
+}

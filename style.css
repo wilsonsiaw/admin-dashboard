@@ -171,10 +171,11 @@ a {
 }
 
 .cards {
+    padding: 40px;
     font-size: 1.4rem;
 
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-    min-height: 600px;
+    min-height: 677px;
     gap: 25px;
 }

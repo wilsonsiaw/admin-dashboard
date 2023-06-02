@@ -194,5 +194,8 @@ a {
 }
 
 .card-icons {
+    padding: 5px;
+    margin-top: 15px;
+    margin-right: 20px;
     justify-self: end;
 }

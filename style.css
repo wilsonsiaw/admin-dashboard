@@ -189,4 +189,10 @@ a {
     min-height: 100px;
 
     box-shadow: 2px 2px 10px 1px lightgray;
+
+    display: grid;
+}
+
+.card-icons {
+    justify-self: end;
 }

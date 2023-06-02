@@ -166,6 +166,8 @@ a {
 }
 
 .main-content {
+    background-color: #ececec;
+
     display: grid;
     grid-template-columns: 4fr 1fr;
 }

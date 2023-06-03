@@ -227,6 +227,13 @@ span > p {
     margin-left: 25px;
 }
 
+.trending {
+    font-size: 2rem;
+    margin-left: 25px;
+    margin-top: 35px;
+    margin-bottom: -25px;
+}
+
 .side-card-one {
     background-color: #ffffff;
     border-radius: 10px;

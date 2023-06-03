@@ -221,11 +221,17 @@ span > p {
     margin-bottom: -18px;
 }
 
+.announcements {
+    font-size: 2rem;
+    margin-top: 22px; 
+    margin-left: 25px;
+}
+
 .side-card-one {
     background-color: #ffffff;
     border-radius: 10px;
     margin: 20px;
-    margin-top: 37px;
+    margin-top: 7px;
     padding: 25px;
     max-width: 260px;
 

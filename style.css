@@ -248,10 +248,14 @@ span > p {
     grid-template-rows: repeat(4, 35px);
 }
 
-.side-card-two > ul > li > a {
+.side-card-two > a {
     color: #295f4e;
 }
 
 .side-card-two > ul > li {
     list-style-type: none;
+}
+
+#owl-icon {
+    grid-column: 1;
 }

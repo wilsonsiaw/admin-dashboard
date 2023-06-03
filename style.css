@@ -256,20 +256,23 @@ span > p {
     list-style-type: none;
 }
 
-#owl-icon {
+#owl-icon,
+#panda-icon {
     grid-column: 1;
 
     justify-self: center;
 }
 
-.tegan {
+.tegan,
+.wilson {
     color: #808080;
     font-weight: 500;
     font-size: 1.2rem;
     align-self: center;
 }
 
-.tegan > a {
+.tegan > a,
+.wilson > a {
     font-size: 1.3rem;
     color: #141010;
 }

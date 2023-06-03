@@ -268,7 +268,7 @@ span > p {
     display: grid;
     grid-template-columns: 1fr 2fr;
     grid-template-rows: repeat(4, 35px);
-    gap: 25px;
+    gap: 25px 3px;
 
     box-shadow: 2px 2px 10px 1px #d3d3d3;
 }

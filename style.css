@@ -252,10 +252,6 @@ span > p {
     box-shadow: 2px 2px 10px 1px #d3d3d3;
 }
 
-.side-card-two > a {
-    color: #295f4e;
-}
-
 .side-card-two > ul > li {
     list-style-type: none;
 }
@@ -284,5 +280,5 @@ span > p {
 .kendall > a,
 .alex > a {
     font-size: 1.3rem;
-    color: #141010;
+    color: #295f4e;
 }

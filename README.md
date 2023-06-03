@@ -23,15 +23,19 @@ but CSS Grid.
 There were three major sections in the dashboard that needed to be laid out. These sections were:
 
 **The header**:
+
 ![header](images/readme-assets/header.png)
 
 **The sidebar**:
+
 ![sidebar](images/readme-assets/sidebar.png)
 
-**Main Content Cards**
+**Main Content Cards**:
+
 ![main-cards](images/readme-assets/main-cards.png)
 
 **Side Content Cards**
+
 ![side-cards](images/readme-assets/side-cards.png)
 
 The key to laying out the different sections and elements within the sections was learning how to nest grids or create grids within grids.

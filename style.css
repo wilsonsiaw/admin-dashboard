@@ -249,6 +249,14 @@ span > p {
     box-shadow: 2px 2px 10px 1px #d3d3d3;
 }
 
+.side-card-one > span > div {
+    font-size: 1.4rem;
+}
+
+.side-card-one > span > div + p {
+    font-size: 1.2rem;
+}
+
 .side-card-two {
     background-color: #ffffff;
     border-radius: 10px;

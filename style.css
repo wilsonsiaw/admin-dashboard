@@ -242,6 +242,10 @@ span > p {
     margin: 20px;
     padding: 25px;
     max-width: 260px;
+
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: repeat(4, 1fr);
 }
 
 .side-card-two > ul > li > a {

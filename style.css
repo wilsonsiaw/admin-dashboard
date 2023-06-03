@@ -210,7 +210,7 @@ span > div {
 
 span > p {
     font-size: 1.3rem;
-    color:grey;
+    color:#808080;
     font-weight: 500;
 }
 
@@ -233,14 +233,14 @@ span > p {
     grid-template-rows: repeat(3, 1fr);
     gap: 25px;
 
-    box-shadow: 2px 2px 10px 1px lightgray;
+    box-shadow: 2px 2px 10px 1px #d3d3d3;
 }
 
 .side-card-two {
     background-color: #ffffff;
     border-radius: 10px;
     margin: 20px;
-    padding: 25px;
+    padding: 20px;
     max-width: 260px;
 
     display: grid;
@@ -258,4 +258,18 @@ span > p {
 
 #owl-icon {
     grid-column: 1;
+
+    justify-self: center;
+}
+
+.tegan {
+    color: #808080;
+    font-weight: 500;
+    font-size: 1.2rem;
+    align-self: center;
+}
+
+.tegan > a {
+    font-size: 1.3rem;
+    color: #141010;
 }

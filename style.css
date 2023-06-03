@@ -245,7 +245,7 @@ span > p {
 
     display: grid;
     grid-template-columns: 1fr 2fr;
-    grid-template-rows: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 35px);
 }
 
 .side-card-two > ul > li > a {

@@ -257,14 +257,16 @@ span > p {
 }
 
 #owl-icon,
-#panda-icon {
+#panda-icon,
+#penguin-icon {
     grid-column: 1;
 
     justify-self: center;
 }
 
 .tegan,
-.wilson {
+.wilson,
+.kendall {
     color: #808080;
     font-weight: 500;
     font-size: 1.2rem;
@@ -272,7 +274,8 @@ span > p {
 }
 
 .tegan > a,
-.wilson > a {
+.wilson > a,
+.kendall > a {
     font-size: 1.3rem;
     color: #141010;
 }

@@ -40,6 +40,14 @@ There were three major sections in the dashboard that needed to be laid out. The
 
 The key to laying out the different sections and elements within the sections was learning how to nest grids or create grids within grids.
 
+## **What I learned**
+
+In this project, I learned how to use CSS Grid to lay out a webpage or web application. I learned how to create a grid container and grid tracks. Moreover, I learned different ways to define or set grid track sizes. I also learned the difference between implicit and explicit grids. 
+
+In addition to this, I learned how to postion grid items within a grid using grid-column-start, grid-column-end, grid-row-start and grid-row-end. I also learned how to acccomplish the same task using grid-template-areas and grid-area.
+
+Finally, I learned how to create a grid within a grid or nest grids.
+
 ## **Challenges**
 
 As mentioned above, the key to completing this project was figuring out how to create grids within grid. This was the most challenging aspect of the project.

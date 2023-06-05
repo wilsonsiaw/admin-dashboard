@@ -53,3 +53,13 @@ Finally, I learned how to create a grid within a grid or nest grids.
 As mentioned above, the key to completing this project was figuring out how to create grids within grid. This was the most challenging aspect of the project.
 
 The solution to this challenge was learning that you can create a grid container within another grid container. Doing this helps to nest grids within grids, thereby creating grid items that you can lay out within a parent or sub container.
+
+## **Contact**
+
+Thank you for going through this project repository.
+
+I can be contacted for any comments or contributions at:
+
+![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+wilsonsiawse@gmail.com

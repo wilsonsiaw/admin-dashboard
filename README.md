@@ -40,3 +40,8 @@ There were three major sections in the dashboard that needed to be laid out. The
 
 The key to laying out the different sections and elements within the sections was learning how to nest grids or create grids within grids.
 
+## **Challenges**
+
+As mentioned above, the key to completing this project was figuring out how to create grids within grid. This was the most challenging aspect of the project.
+
+The solution to this challenge was learning that you can create a grid container within another grid container. Doing this helps to nest grids within grids, thereby creating grid items that you can lay out within a parent or sub container.
